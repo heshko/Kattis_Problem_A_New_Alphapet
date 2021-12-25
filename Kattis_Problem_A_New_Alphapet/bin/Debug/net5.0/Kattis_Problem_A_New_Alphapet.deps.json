@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Kattis_Problem_A_New_Alphapet/1.0.0": {
+        "runtime": {
+          "Kattis_Problem_A_New_Alphapet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kattis_Problem_A_New_Alphapet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

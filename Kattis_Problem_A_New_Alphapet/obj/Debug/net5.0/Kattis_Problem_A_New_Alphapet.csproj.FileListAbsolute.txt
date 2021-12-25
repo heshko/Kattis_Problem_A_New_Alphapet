@@ -1,0 +1,16 @@
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\bin\Debug\net5.0\Kattis_Problem_A_New_Alphapet.exe
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\bin\Debug\net5.0\Kattis_Problem_A_New_Alphapet.deps.json
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\bin\Debug\net5.0\Kattis_Problem_A_New_Alphapet.runtimeconfig.json
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\bin\Debug\net5.0\Kattis_Problem_A_New_Alphapet.runtimeconfig.dev.json
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\bin\Debug\net5.0\Kattis_Problem_A_New_Alphapet.dll
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\bin\Debug\net5.0\ref\Kattis_Problem_A_New_Alphapet.dll
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\bin\Debug\net5.0\Kattis_Problem_A_New_Alphapet.pdb
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\Kattis_Problem_A_New_Alphapet.csproj.AssemblyReference.cache
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\Kattis_Problem_A_New_Alphapet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\Kattis_Problem_A_New_Alphapet.AssemblyInfoInputs.cache
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\Kattis_Problem_A_New_Alphapet.AssemblyInfo.cs
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\Kattis_Problem_A_New_Alphapet.csproj.CoreCompileInputs.cache
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\Kattis_Problem_A_New_Alphapet.dll
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\ref\Kattis_Problem_A_New_Alphapet.dll
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\Kattis_Problem_A_New_Alphapet.pdb
+C:\Users\shoot\source\repos\Kattis_Problem_A_New_Alphapet\Kattis_Problem_A_New_Alphapet\obj\Debug\net5.0\Kattis_Problem_A_New_Alphapet.genruntimeconfig.cache
